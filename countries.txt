@@ -4,3 +4,4 @@ andorra
 argentina
 australia
 austria
+azerbaijan
